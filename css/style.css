@@ -89,19 +89,20 @@ i{
         text-shadow: 5px 5px 5px black;
         font-weight: 700px;
     }
-    .card-responsive  a{
-        display: none;
-        
-    }
-    .card-responsive:hover a{
-        display: block;
-        background-color: black;
-        opacity: 0.8;
-        position: absolute;
-        width: 40vw;
-        height: 32vh;
-    }
     
+.card-center  a{
+    display: none;
+    
+}
+.card-center:hover a{
+    display: block;
+    background-color: black;
+    opacity: 0.8;
+    position: absolute;
+    width: 40vw;
+    height: 32vh;
+}
+  
     
    
    
