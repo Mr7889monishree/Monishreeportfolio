@@ -13,8 +13,10 @@ html{
     background-size: cover;
     width: 100%;
     height: 100vh;
-    
-
+}
+#skills{
+    width: 100%;
+    height: 100vh;
 }
 .container-lg-9{
     display: flex;
@@ -90,7 +92,7 @@ i{
     #about{
         background-color: rgb(183, 201, 217);
         width: 130%;
-        height: 100%;
+        height: 110vh;
     }
     
     
