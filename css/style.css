@@ -10,14 +10,22 @@ html{
 #intro{
     background-image: url(../images/img-sm.jpg);
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 130%;
+    width: 100%;
+    height: 100vh;
     
 
 }
+.container-lg-9{
+    display: flex;
+    flex-flow:row wrap;
+    justify-content: center;
+    align-items: center;
+}
 #about{
     background-color: rgb(183, 201, 217);
-    width: 100%;
-    height: 100%;
+    width: 100vw;
+    height: 100vh;
 }
 
 .card-center  a{
@@ -74,7 +82,8 @@ i{
         background-image: url(../images/img-lg.jpg);
         background-repeat: no-repeat;
         background-size: 130%;
-        
+        width: 100%;
+        height: 100vh;
 
     }
     
@@ -117,6 +126,8 @@ i{
         background-image: url(../images/img-sm.jpg);
         background-repeat: no-repeat;
         background-size: cover;
+        width: 100%;
+        height: 100vh;
     
 
     }
@@ -143,16 +154,11 @@ i{
     #intro{
         background-image: url(../images/img-md.jpg);
         background-repeat: no-repeat;
-        background-size: 100%;
-    
-
-    }
-    #about{
-        background-color: rgb(183, 201, 217);
+        background-size: cover;
         width: 100%;
-        height: 100%;
+        height: 100vh;
+        
     }
-    
     
     .container-fluid .navbar-brand{
         color: black;
