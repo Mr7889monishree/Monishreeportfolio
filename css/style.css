@@ -8,7 +8,7 @@ html{
 }
 
 #intro{
-    background-image: url(/images/workplace.jpg);
+    background-image: url(/images/img-sm.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
@@ -79,9 +79,7 @@ i{
         height: 100vh;
 
     }
-    #intro li{
-        color: white;
-    }
+    
     #about{
         background-color: rgb(183, 201, 217);
         width: 130%;
