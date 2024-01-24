@@ -27,7 +27,7 @@ html{
 #about{
     background-color: rgb(183, 201, 217);
     width: 100vw;
-    height: 100vh;
+    height: 120vh;
 }
 
 .card-center  a{
@@ -92,7 +92,7 @@ i{
     #about{
         background-color: rgb(183, 201, 217);
         width: 130%;
-        height: 110vh;
+        height: 130vh;
     }
     
     
