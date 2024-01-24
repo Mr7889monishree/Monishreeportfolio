@@ -79,6 +79,9 @@ i{
         height: 100vh;
 
     }
+    #intro li{
+        color: white;
+    }
     #about{
         background-color: rgb(183, 201, 217);
         width: 130%;
